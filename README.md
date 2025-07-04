@@ -85,18 +85,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
-- 📧 Email: [umarfarooq.sudo@gmail.com](mailto:umarfarooq.sud0@gmail.com)  
+- 📧 Email: [umarfarooq.sudo@gmail.com](mailto:umarfarooq.sudo@gmail.com)  
 
 ---
 
