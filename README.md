@@ -17,6 +17,52 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
+
+## 🚀 About Me
+
+```typescript
+const umar = {
+    location: "Pakistan 🇵🇰",
+    role: ["Full-Stack Developer", "AI Automation Engineer"],
+    currentFocus: "MERN Stack & AI-Powered Automation",
+    specialization: ["Workflow Automation", "No-Code/Low-Code Solutions"],
+    goal: "High-Impact Web Developer | Financial Freedom",
+    passion: [
+        "Problem Solving", 
+        "AI Automation", 
+        "Performance Optimization", 
+        "Clean UI Design",
+        "Process Optimization"
+    ],
+    learning: [
+        "Advanced React Patterns", 
+        "AI Integration", 
+        "Microservices", 
+        "Cloud Architecture",
+        "Advanced Automation Workflows"
+    ],
+    askMeAbout: [
+        "React", "Node.js", "Express", "MongoDB", 
+        "Socket.IO", "AI Automation", "JavaScript",
+        "n8n", "Make.com", "Zapier", "Workflow Optimization"
+    ],
+    lifePhilosophy: "Taking steps every day to build the future I dream of"
+};
+```
+
+<br clear="right"/>
+
+---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Dynamic GitHub Stats -->
+<div align="center">
+
+
+
 <!-- Automation Workflows Section -->
 <div align="center">
 
@@ -623,47 +669,7 @@ Evening        ████████████░░░░░░░░  45%
 <!-- About Section with Gradient -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-## 🚀 About Me
 
-```typescript
-const umar = {
-    location: "Pakistan 🇵🇰",
-    role: ["Full-Stack Developer", "AI Automation Engineer"],
-    currentFocus: "MERN Stack & AI-Powered Automation",
-    specialization: ["Workflow Automation", "No-Code/Low-Code Solutions"],
-    goal: "High-Impact Web Developer | Financial Freedom",
-    passion: [
-        "Problem Solving", 
-        "AI Automation", 
-        "Performance Optimization", 
-        "Clean UI Design",
-        "Process Optimization"
-    ],
-    learning: [
-        "Advanced React Patterns", 
-        "AI Integration", 
-        "Microservices", 
-        "Cloud Architecture",
-        "Advanced Automation Workflows"
-    ],
-    askMeAbout: [
-        "React", "Node.js", "Express", "MongoDB", 
-        "Socket.IO", "AI Automation", "JavaScript",
-        "n8n", "Make.com", "Zapier", "Workflow Optimization"
-    ],
-    lifePhilosophy: "Taking steps every day to build the future I dream of"
-};
-```
-
-<br clear="right"/>
-
----
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Dynamic GitHub Stats -->
-<div align="center">
 
 ## 📊 GitHub Analytics
 
