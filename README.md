@@ -72,66 +72,6 @@ const umar = {
 
 </div>
 
-### 🔄 Workflow Automation Expertise
-
-<table align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🎯 n8n Workflows</h4>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-        <br><br>
-        <p>
-          ✅ API integrations<br>
-          ✅ Data transformation<br>
-          ✅ Scheduled tasks<br>
-          ✅ Webhook automation<br>
-          ✅ Database operations<br>
-          ✅ Email workflows<br>
-          ✅ Error handling<br>
-          ✅ Custom nodes
-        </p>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🚀 Make.com Scenarios</h4>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-        <br><br>
-        <p>
-          ✅ Complex scenarios<br>
-          ✅ Multi-app connections<br>
-          ✅ Conditional logic<br>
-          ✅ Data routing<br>
-          ✅ File processing<br>
-          ✅ Social media automation<br>
-          ✅ CRM workflows<br>
-          ✅ Analytics integration
-        </p>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">⚡ Zapier Zaps</h4>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-        <br><br>
-        <p>
-          ✅ Multi-step zaps<br>
-          ✅ App integrations<br>
-          ✅ Filters & formatting<br>
-          ✅ Paths & branches<br>
-          ✅ Webhooks & APIs<br>
-          ✅ Delays & schedules<br>
-          ✅ Data lookups<br>
-          ✅ Custom code
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -149,6 +89,12 @@ const umar = {
 ```mermaid
 mindmap
   root((Umar's Tech Journey))
+    Cloud & DevOps
+      AWS Services
+      Docker & Kubernetes
+      CI/CD Pipelines
+      Infrastructure as Code
+      Monitoring & Logging
     Full Stack Development
       MERN Stack Mastery
       Next.js & SSR
@@ -161,12 +107,6 @@ mindmap
       LangChain Integration
       Custom AI Agents
       Process Optimization
-    Cloud & DevOps
-      AWS Services
-      Docker & Kubernetes
-      CI/CD Pipelines
-      Infrastructure as Code
-      Monitoring & Logging
     Soft Skills
       Project Management
       Team Collaboration
@@ -184,7 +124,7 @@ mindmap
     <th>Status</th>
   </tr>
   <tr>
-    <td><strong>Q4 2024</strong></td>
+    <td><strong>Q4 2025</strong></td>
     <td>
       • Master n8n workflow automation<br>
       • Complete NexChat Electron app<br>
@@ -196,7 +136,7 @@ mindmap
     </td>
   </tr>
   <tr>
-    <td><strong>Q1 2025</strong></td>
+    <td><strong>Q1 2026</strong></td>
     <td>
       • Deploy 5 production-ready projects<br>
       • Master AWS cloud services<br>
@@ -208,7 +148,7 @@ mindmap
     </td>
   </tr>
   <tr>
-    <td><strong>Q2 2025</strong></td>
+    <td><strong>Q2 2026</strong></td>
     <td>
       • Build SaaS product<br>
       • Advanced AI agent development<br>
@@ -220,7 +160,7 @@ mindmap
     </td>
   </tr>
   <tr>
-    <td><strong>Q3 2025</strong></td>
+    <td><strong>Q3 2026</strong></td>
     <td>
       • Launch freelance services<br>
       • Scale automation business<br>
@@ -258,7 +198,6 @@ mindmap
         <li>✅ <strong>25+</strong> Automation Workflows</li>
         <li>✅ <strong>5+</strong> Database Design Projects</li>
         <li>✅ <strong>15+</strong> API Integrations</li>
-        <li>✅ <strong>20+</strong> Client Solutions</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -268,7 +207,6 @@ mindmap
         <li>🤖 AI & Workflow Automation</li>
         <li>💾 Database Design & Optimization</li>
         <li>🔐 Authentication & Security</li>
-        <li>☁️ Cloud Deployment & Scaling</li>
       </ul>
     </td>
   </tr>
@@ -284,7 +222,6 @@ mindmap
 | 🏅 **Library Management** | Desktop app serving 1000+ books database | 2024 |
 | 🏅 **Automation Mastery** | Created 25+ production workflows | 2024 |
 | 🏅 **API Development** | RESTful APIs handling 10k+ requests/day | 2024 |
-| 🏅 **Client Projects** | Successfully delivered 20+ solutions | 2024 |
 
 </div>
 
@@ -375,21 +312,6 @@ mindmap
 
 <!-- Blog & Content Section -->
 <div align="center">
-
-## 📝 Latest Blog Posts & Articles
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 **Building Real-Time Chat Apps with MERN Stack**
-- 🤖 **Mastering n8n: From Beginner to Pro**
-- ⚡ **10 Automation Workflows Every Developer Needs**
-- 💡 **Clean Code Practices in JavaScript**
-- 🔐 **Implementing JWT Authentication in Node.js**
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <!-- Animated Divider -->
@@ -435,19 +357,6 @@ HTML         1 hr 5 mins     █░░░░░░░░░░░░░░░░
 Other        30 mins         ░░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 <!--END_SECTION:waka-->
-
-### 📅 Development Streak
-
-<div align="center">
-  
-| Metric | Value |
-|--------|-------|
-| 🔥 Current Streak | ![Current Streak](https://img.shields.io/badge/12-days-orange?style=flat-square) |
-| 💪 Longest Streak | ![Longest Streak](https://img.shields.io/badge/45-days-green?style=flat-square) |
-| 📊 Total Contributions | ![Total Contributions](https://img.shields.io/badge/1200+-contributions-blue?style=flat-square) |
-| ⭐ Total Stars | ![Total Stars](https://img.shields.io/badge/150+-stars-yellow?style=flat-square) |
-
-</div>
 
 </div>
 
